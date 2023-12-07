@@ -63,31 +63,31 @@ main > h1 {
     border-radius: 16px;
 }
 
-.nawfal {
-    background-image: url("../img/nawfal.jpg");
+.mehdi {
+    background-image: url("../img/mehdouch.jpg");
 }
 
-.meryem {
-    background-image: url("../img/meriem.jpg");
+.youssef {
+    background-image: url("../img/youssef.jpg");
 }
 
-.aouab {
-    background-image: url("../img/aouab.jpg");
+.rayane {
+    background-image: url("../img/rayane.jpg");
 }
 
-.meryem:hover {
+.youssef:hover {
     -webkit-box-shadow:0px 0px 146px 5px rgb(220, 159, 89);
 -moz-box-shadow: 0px 0px 146px 5px rgb(220, 159, 89);
 box-shadow: 0px 0px 146px 5px rgb(220, 159, 89);
 }
 
-.aouab:hover {
+.rayane:hover {
     -webkit-box-shadow:0px 0px 146px 5px rgba(31,159,219,1);
 -moz-box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
 box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
 }
 
-.nawfal:hover {
+.mehdi:hover {
     -webkit-box-shadow:0px 0px 146px 5px rgb(241, 240, 185);
 -moz-box-shadow: 0px 0px 146px 5px rgb(241, 240, 185);
 box-shadow: 0px 0px 146px 5px rgb(241, 240, 185);
