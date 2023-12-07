@@ -76,19 +76,19 @@ main > h1 {
 }
 
 .youssef:hover {
-    -webkit-box-shadow:0px 0px 146px 5px rgb(220, 159, 89);
--moz-box-shadow: 0px 0px 146px 5px rgb(220, 159, 89);
-box-shadow: 0px 0px 146px 5px rgb(220, 159, 89);
+    -webkit-box-shadow:0px 0px 146px 5px rgb(220, 20, 20);
+-moz-box-shadow: 0px 0px 146px 5px rgb(220, 20, 20);
+box-shadow: 0px 0px 146px 5px rgb(220, 20, 20);
 }
 
 .rayane:hover {
-    -webkit-box-shadow:0px 0px 146px 5px rgba(31,159,219,1);
--moz-box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
-box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
-}
-
-.mehdi:hover {
     -webkit-box-shadow:0px 0px 146px 5px rgb(241, 240, 185);
 -moz-box-shadow: 0px 0px 146px 5px rgb(241, 240, 185);
 box-shadow: 0px 0px 146px 5px rgb(241, 240, 185);
+}
+
+.mehdi:hover {
+    -webkit-box-shadow:0px 0px 146px 5px rgba(31,159,219,1);
+-moz-box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
+box-shadow: 0px 0px 146px 5px rgba(31,159,219,1);
 }
